@@ -2,4 +2,5 @@
 .Rproj
 .Rproj.user
 myenv_/
-World Food Facts/data/
+# No versionar datos enormes
+01_Getting_&_Knowing_Your_Data/World Food Facts/data/en.openfoodfacts.org.products.tsv
